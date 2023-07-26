@@ -1,4 +1,4 @@
-package easy.AppleAndOrange.GradingStudents;
+package easy.GradingStudents;
 
 import java.util.List;
 import java.util.stream.Collectors;
