@@ -1,4 +1,4 @@
-package main;
+package easy.AppleAndOrange;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -33,6 +33,7 @@ public class AppleAndOrange {
         return counter;
     }
 
+    //Using Streams API
     public static int countFruitsStream(int s, int t, int treePosition, List<Integer> fruits) {
 
         return (int) fruits

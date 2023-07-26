@@ -1,4 +1,4 @@
-package main;
+package easy.AppleAndOrange.SalesByMatch;
 
 import java.util.ArrayList;
 import java.util.HashMap;
