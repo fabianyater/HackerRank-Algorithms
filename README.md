@@ -6,7 +6,7 @@ Este repositorio contiene mis soluciones para varios ejercicios de HackerRank re
 
 ## Cómo Navegar este Repositorio
 
-En cada carpeta, encontrarás los archivos de código fuente correspondientes a los ejercicios resueltos en Java. Además, también he proporcionado un archivo `README.md` en cada carpeta que contiene una breve descripción de los problemas y los enlaces a los enunciados originales en HackerRank.
+En cada carpeta, encontrarás los archivos de código fuente correspondientes a los ejercicios resueltos en Java 17. Además, también he proporcionado un archivo `README.md` en cada carpeta que contiene una breve descripción de los problemas y los enlaces a los enunciados originales en HackerRank.
 
 ## Contribuciones
 
