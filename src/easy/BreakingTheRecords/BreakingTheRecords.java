@@ -5,16 +5,7 @@ import java.util.List;
 
 public class BreakingTheRecords {
     public static void main(String[] args) {
-        List<Integer> scores = new ArrayList<>();
-        scores.add(10);
-        scores.add(5);
-        scores.add(20);
-        scores.add(20);
-        scores.add(4);
-        scores.add(5);
-        scores.add(2);
-        scores.add(25);
-        scores.add(1);
+        List<Integer> scores = new ArrayList<>(List.of(10, 5, 20, 20, 4, 5, 2, 25, 1));
 
         System.out.println(breakingRecords(scores));
     }
